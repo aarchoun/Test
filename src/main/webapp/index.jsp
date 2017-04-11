@@ -6,7 +6,7 @@
         <title>aarchoun</title>
     </head>
     <body>
-        <h1>Hello from ARCHCOUN Aymane</h1>
+        <h1>Hello from ARCHOUN Aymane</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
